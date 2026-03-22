@@ -1,0 +1,27 @@
+{
+    "spec": 1,
+    "name": "LXGW WenKai Screen",
+    "previewText": "LXGW WenKai Screen 中文 English あいうえお",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://cdn.jsdelivr.net/gh/CMBill/lxgw-wenkai-screen-web/lxgwwenkaiscreen/LXGWWenKaiScreen-Bold.ttf",
+        "ggsans-Bold": "https://cdn.jsdelivr.net/gh/CMBill/lxgw-wenkai-screen-web/lxgwwenkaiscreen/LXGWWenKaiScreen-Bold.ttf",
+        "ggsans-BoldItalic": "https://cdn.jsdelivr.net/gh/CMBill/lxgw-wenkai-screen-web/lxgwwenkaiscreen/LXGWWenKaiScreen-Bold.ttf",
+        "ggsans-ExtraBold": "https://cdn.jsdelivr.net/gh/CMBill/lxgw-wenkai-screen-web/lxgwwenkaiscreen/LXGWWenKaiScreen-Bold.ttf",
+        "ggsans-ExtraBoldItalic": "https://cdn.jsdelivr.net/gh/CMBill/lxgw-wenkai-screen-web/lxgwwenkaiscreen/LXGWWenKaiScreen-Bold.ttf",
+        "ggsans-Medium": "https://cdn.jsdelivr.net/gh/CMBill/lxgw-wenkai-screen-web/lxgwwenkaiscreen/LXGWWenKaiScreen-Medium.ttf",
+        "ggsans-MediumItalic": "https://cdn.jsdelivr.net/gh/CMBill/lxgw-wenkai-screen-web/lxgwwenkaiscreen/LXGWWenKaiScreen-Medium.ttf",
+        "ggsans-Normal": "https://cdn.jsdelivr.net/gh/CMBill/lxgw-wenkai-screen-web/lxgwwenkaiscreen/LXGWWenKaiScreen-Regular.ttf",
+        "ggsans-NormalItalic": "https://cdn.jsdelivr.net/gh/CMBill/lxgw-wenkai-screen-web/lxgwwenkaiscreen/LXGWWenKaiScreen-Regular.ttf",
+        "ggsans-Semibold": "https://cdn.jsdelivr.net/gh/CMBill/lxgw-wenkai-screen-web/lxgwwenkaiscreen/LXGWWenKaiScreen-Medium.ttf",
+        "ggsans-SemiboldItalic": "https://cdn.jsdelivr.net/gh/CMBill/lxgw-wenkai-screen-web/lxgwwenkaiscreen/LXGWWenKaiScreen-Medium.ttf",
+        "NotoSans-Bold": "https://cdn.jsdelivr.net/gh/CMBill/lxgw-wenkai-screen-web/lxgwwenkaiscreen/LXGWWenKaiScreen-Bold.ttf",
+        "NotoSans-ExtraBold": "https://cdn.jsdelivr.net/gh/CMBill/lxgw-wenkai-screen-web/lxgwwenkaiscreen/LXGWWenKaiScreen-Bold.ttf",
+        "NotoSans-Medium": "https://cdn.jsdelivr.net/gh/CMBill/lxgw-wenkai-screen-web/lxgwwenkaiscreen/LXGWWenKaiScreen-Medium.ttf",
+        "NotoSans-Normal": "https://cdn.jsdelivr.net/gh/CMBill/lxgw-wenkai-screen-web/lxgwwenkaiscreen/LXGWWenKaiScreen-Regular.ttf",
+        "NotoSans-NormalItalic": "https://cdn.jsdelivr.net/gh/CMBill/lxgw-wenkai-screen-web/lxgwwenkaiscreen/LXGWWenKaiScreen-Regular.ttf",
+        "NotoSans-Semibold": "https://cdn.jsdelivr.net/gh/CMBill/lxgw-wenkai-screen-web/lxgwwenkaiscreen/LXGWWenKaiScreen-Medium.ttf",
+        "SourceCodePro-Semibold": "https://cdn.jsdelivr.net/gh/lxgw/LxgwWenKai@refs/heads/main/fonts/TTF/LXGWWenKaiMono-Regular.ttf",
+        "ggsans-mono": "https://cdn.jsdelivr.net/gh/lxgw/LxgwWenKai@refs/heads/main/fonts/TTF/LXGWWenKaiMono-Regular.ttf",
+        "ggsans-mono-Bold": "https://cdn.jsdelivr.net/gh/lxgw/LxgwWenKai@refs/heads/main/fonts/TTF/LXGWWenKaiMono-Bold.ttf"
+    }
+}
